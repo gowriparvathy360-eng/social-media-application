@@ -1,0 +1,82 @@
+.nav{
+
+    font-size: 36px;
+    color: rgb(85, 21, 56);
+}
+.navbar{
+    background-color: rgb(125, 83, 153);
+}
+.nav-item>a{
+
+    color:rgb(85, 21, 56);
+    transition: transform 0.5s ease-in-out;
+
+    
+}
+
+.nav-item>a:hover{
+    transform: translateY(-6px);
+    color: antiquewhite;
+}
+
+body{
+    height: 100vh;
+    background-color: rgb(90, 49, 83);
+}
+.carousel-item>img{
+    height: 400px;
+
+}
+.main-head{
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+
+.btn{
+
+    background-color: rgb(67, 47, 73);
+    color: white;
+}
+.btn-main{
+    
+    width: 300px;
+
+    
+
+    height: 70px;
+}
+.btn:hover{
+    background-color: rgb(92, 36, 145);
+    color: white;
+    box-shadow: 10px 1px 1900000px rgb(133, 155, 216);
+}
+.footer{
+
+    background-color: rgb(40, 37, 43);
+}
+
+.form{
+
+    width: 300px;
+    color: aliceblue;
+    background-color: transparent;
+}
+.btn{
+
+    background-color: rgb(29, 7, 63);
+    color: rgb(254, 253, 255);
+    width: 160px;
+    margin-top: 30px;
+}
+.input{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+
+}
+
+.input:hover{
+    box-shadow: 1px 1px 10px rgb(215, 215, 219);
+}
